@@ -1383,6 +1383,10 @@ BabbleSpell:RegisterTranslations("enUS", function() return {
 	["Wound Poison"] = true,
 	["Wrath"] = true,
 	["Wyvern Sting"] = true,
+	--survival
+		["Survival"] = true,
+		["Cut Wood"] = true,
+	--
 } end)
 
 BabbleSpell:RegisterTranslations("ruRU", function() return {
@@ -2743,6 +2747,10 @@ BabbleSpell:RegisterTranslations("ruRU", function() return {
 	["Wound Poison"] = "Нейтрализующий яд",
 	["Wrath"] = "Гнев",
 	["Wyvern Sting"] = "Укус виверны",
+	--survival
+		["Survival"] = "Выживание",
+		["Cut Wood"] = "Рубить дерево",
+	--
 } end)
 
 BabbleSpell:RegisterTranslations("deDE", function() return {
